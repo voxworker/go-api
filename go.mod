@@ -1,1 +1,1 @@
-module voxworker.com/doc/tts
+module github.com/voxworker/go-api

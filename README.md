@@ -7,13 +7,13 @@
 Make sure you have a working Go 1.16+ workspace 
 
 ```
-go get voxworker.com/doc/go
+go get github.com/voxworker/go-api
 ```
 
 For update to latest stable release, do:
 
 ```
-go get -u voxworker.com/doc/go
+go get -u github.com/voxworker/go-api
 ```
 
 #### Links
